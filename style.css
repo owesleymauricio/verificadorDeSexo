@@ -1,0 +1,27 @@
+body{
+    background: rgb(183, 241, 181);
+}
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}   
+
+section{
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 2px 2px 5px black;
+
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+}
+img {
+    width: 100px;
+}
